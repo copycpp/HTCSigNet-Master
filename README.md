@@ -37,7 +37,10 @@ python -m htcsignet.wd.htcsignet_wd_test -m htcsignet --model-path <path/to/trai
 ```
 
 ## Weight Sharing
-https://musetransfer.com/s/pyni3bmws
+I've shared the file htcsignet.pth with you via Quark Cloud Drive. Open the Quark APP by tapping the link or copying the full content below to access it.
+/~f38b3bZCEe~:/
+Link: https://pan.quark.cn/s/f973a6bb5495?pwd=wp87
+Extraction code: wp87
 
 
 ## Reference
